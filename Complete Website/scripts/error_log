@@ -1,0 +1,224 @@
+[06-Apr-2014 17:37:15] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/grp4istw/public_html/scripts/app_config.php on line 4
+[06-Apr-2014 17:37:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/grp4istw/public_html/scripts/app_config.php on line 4
+[06-Apr-2014 17:37:56] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/grp4istw/public_html/scripts/app_config.php on line 4
+[06-Apr-2014 17:38:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/grp4istw/public_html/scripts/app_config.php on line 4
+[06-Apr-2014 17:40:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw_admin'@'localhost' (using password: YES) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 17:40:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 17:40:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 17:40:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 17:42:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw_admin'@'localhost' (using password: YES) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 17:42:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 17:42:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 17:42:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 19:42:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 19:42:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:42:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:42:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 19:44:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 19:44:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:44:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:44:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 19:50:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 19:50:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:50:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:50:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 19:50:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 19:50:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:50:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[06-Apr-2014 19:50:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 38
+[06-Apr-2014 19:52:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[06-Apr-2014 19:52:51] PHP Fatal error:  Call to undefined function  handle_error() in /home/grp4istw/public_html/scripts/database_connection.php on line 5
+[07-Apr-2014 15:42:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:45:15] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:46:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:51:35] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:51:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:54:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:54:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:56:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/database_connection.php on line 9
+[07-Apr-2014 15:59:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[07-Apr-2014 15:59:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 34
+[07-Apr-2014 15:59:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 37
+[07-Apr-2014 16:00:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'DATABASE_USERNAME'@'localhost' (using password: YES) in /home/grp4istw/public_html/scripts/database_connection.php on line 4
+[07-Apr-2014 16:00:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 34
+[07-Apr-2014 16:00:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/database_connection.php:4) in /home/grp4istw/public_html/scripts/app_config.php on line 37
+[07-Apr-2014 16:03:13] PHP Parse error:  syntax error, unexpected '<' in /home/grp4istw/public_html/scripts/database_connection.php on line 12
+[07-Apr-2014 16:04:25] PHP Parse error:  syntax error, unexpected $end in /home/grp4istw/public_html/scripts/database_connection.php on line 15
+[10-Apr-2014 18:58:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/create_user.php on line 7
+[14-Apr-2014 16:06:44] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 46
+[14-Apr-2014 16:34:44] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/grp4istw/public_html/scripts/login.php on line 83
+[14-Apr-2014 16:35:12] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/grp4istw/public_html/scripts/login.php on line 83
+[14-Apr-2014 16:35:15] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/grp4istw/public_html/scripts/login.php on line 83
+[14-Apr-2014 16:35:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 84
+[14-Apr-2014 16:35:57] PHP Warning:  mysql_field_name() [<a href='function.mysql-field-name'>function.mysql-field-name</a>]: Field -2 is invalid for MySQL result index 5 in /home/grp4istw/public_html/scripts/login.php on line 78
+[14-Apr-2014 16:35:57] PHP Warning:  mysql_field_name() [<a href='function.mysql-field-name'>function.mysql-field-name</a>]: Field -1 is invalid for MySQL result index 5 in /home/grp4istw/public_html/scripts/login.php on line 78
+[14-Apr-2014 16:48:25] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 81
+[14-Apr-2014 16:51:22] PHP Parse error:  syntax error, unexpected T_FOR, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 83
+[14-Apr-2014 16:51:51] PHP Parse error:  syntax error, unexpected T_FOR, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 83
+[14-Apr-2014 21:01:17] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/grp4istw/public_html/scripts/login.php on line 85
+[14-Apr-2014 21:04:28] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/grp4istw/public_html/scripts/login.php on line 85
+[14-Apr-2014 21:04:46] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:04:46] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:05:49] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:05:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:06:26] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:06:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:07:15] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:07:15] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:07:40] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:07:40] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/login.php on line 86
+[14-Apr-2014 21:28:12] PHP Fatal error:  Can't use function return value in write context in /home/grp4istw/public_html/scripts/login.php on line 85
+[14-Apr-2014 21:44:45] PHP Parse error:  syntax error, unexpected '.' in /home/grp4istw/public_html/scripts/login.php on line 77
+[14-Apr-2014 21:45:28] PHP Parse error:  syntax error, unexpected T_ECHO in /home/grp4istw/public_html/scripts/login.php on line 76
+[14-Apr-2014 21:50:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home/grp4istw/public_html/scripts/login.php on line 92
+[14-Apr-2014 21:51:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/grp4istw/public_html/scripts/login.php on line 93
+[14-Apr-2014 21:51:12] PHP Parse error:  syntax error, unexpected T_ELSE in /home/grp4istw/public_html/scripts/login.php on line 93
+[14-Apr-2014 21:51:57] PHP Parse error:  syntax error, unexpected '}' in /home/grp4istw/public_html/scripts/login.php on line 101
+[14-Apr-2014 21:52:20] PHP Parse error:  syntax error, unexpected '}' in /home/grp4istw/public_html/scripts/login.php on line 101
+[14-Apr-2014 21:55:03] PHP Parse error:  syntax error, unexpected $end in /home/grp4istw/public_html/scripts/login.php on line 123
+[14-Apr-2014 22:09:29] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/login.php on line 77
+[14-Apr-2014 22:16:15] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/grp4istw/public_html/scripts/login.php on line 77
+[14-Apr-2014 22:51:11] PHP Fatal error:  Call to undefined function  mysql_fetch() in /home/grp4istw/public_html/scripts/login.php on line 76
+[15-Apr-2014 01:55:17] PHP Parse error:  syntax error, unexpected '<' in /home/grp4istw/public_html/scripts/login.php on line 83
+[15-Apr-2014 01:55:42] PHP Parse error:  syntax error, unexpected ';' in /home/grp4istw/public_html/scripts/login.php on line 79
+[15-Apr-2014 01:55:43] PHP Parse error:  syntax error, unexpected ';' in /home/grp4istw/public_html/scripts/login.php on line 79
+[16-Apr-2014 16:11:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 65
+[16-Apr-2014 16:12:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 65
+[16-Apr-2014 16:13:05] PHP Parse error:  syntax error, unexpected '>' in /home/grp4istw/public_html/scripts/login.php on line 65
+[16-Apr-2014 16:13:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 93
+[16-Apr-2014 16:19:59] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/hire.php on line 15
+[16-Apr-2014 16:20:17] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/hire.php on line 15
+[16-Apr-2014 16:20:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/hire.php on line 15
+[16-Apr-2014 16:20:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/hire.php on line 15
+[16-Apr-2014 16:20:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/hire.php on line 16
+[16-Apr-2014 16:27:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'grp4istw'@'localhost' (using password: NO) in /home/grp4istw/public_html/scripts/hire.php on line 13
+[16-Apr-2014 16:27:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/grp4istw/public_html/scripts/hire.php on line 13
+[16-Apr-2014 16:27:40] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 14
+[16-Apr-2014 16:27:40] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 21
+[16-Apr-2014 16:27:40] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 24
+[16-Apr-2014 17:40:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/hire.php on line 14
+[16-Apr-2014 17:41:13] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 15
+[16-Apr-2014 17:41:13] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 22
+[16-Apr-2014 17:41:13] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 25
+[16-Apr-2014 17:43:05] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 16
+[16-Apr-2014 17:43:05] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 23
+[16-Apr-2014 17:43:05] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/hire.php on line 26
+[16-Apr-2014 17:46:18] PHP Parse error:  syntax error, unexpected $end in /home/grp4istw/public_html/scripts/hire.php on line 44
+[16-Apr-2014 18:17:48] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:17:48] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:20:46] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:20:46] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:20:53] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:20:53] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:22:52] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:22:52] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:22:52] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 22
+[16-Apr-2014 18:30:02] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:30:02] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:30:02] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 22
+[16-Apr-2014 18:30:05] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:30:05] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:30:05] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 22
+[16-Apr-2014 18:30:47] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 15
+[16-Apr-2014 18:30:47] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:30:47] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 22
+[16-Apr-2014 18:34:29] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 18:34:29] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 20
+[16-Apr-2014 18:34:29] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 23
+[16-Apr-2014 18:45:12] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 18:45:12] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 20
+[16-Apr-2014 18:45:12] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 23
+[16-Apr-2014 18:56:10] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:56:24] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:56:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/edit.php on line 19
+[16-Apr-2014 18:57:53] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 18:57:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 17
+[16-Apr-2014 18:58:36] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 18:58:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 17
+[16-Apr-2014 18:58:38] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 18:58:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 17
+[16-Apr-2014 18:58:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 19:00:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 16
+[16-Apr-2014 19:02:14] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:35] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:37] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:39] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:50] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:55] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:56] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:56] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:02:56] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:03:42] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:03:46] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:03:50] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[16-Apr-2014 19:04:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 19:04:58] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 19:04:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 19:52:34] PHP Parse error:  syntax error, unexpected '<', expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[16-Apr-2014 19:52:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 19:54:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 19:54:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 18
+[16-Apr-2014 20:35:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/edit.php on line 33
+[16-Apr-2014 20:35:35] PHP Parse error:  syntax error, unexpected $end in /home/grp4istw/public_html/scripts/edit.php on line 36
+[16-Apr-2014 20:36:29] PHP Parse error:  syntax error, unexpected '>' in /home/grp4istw/public_html/scripts/edit.php on line 31
+[16-Apr-2014 20:37:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 20:37:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 20:39:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/update.php on line 22
+[16-Apr-2014 20:40:07] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/update.php on line 22
+[16-Apr-2014 20:40:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/update.php on line 22
+[16-Apr-2014 20:49:44] PHP Parse error:  syntax error, unexpected '[' in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 20:51:18] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 20:52:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 20:53:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/grp4istw/public_html/scripts/update.php on line 24
+[16-Apr-2014 22:13:52] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/update.php on line 22
+[16-Apr-2014 23:27:16] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[16-Apr-2014 23:28:01] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[16-Apr-2014 23:28:03] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[16-Apr-2014 23:28:03] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[16-Apr-2014 23:28:08] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/grp4istw/public_html/scripts/edit.php on line 21
+[17-Apr-2014 00:41:52] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:39] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:40] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:40] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:41] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:41] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:41] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 00:42:46] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 11:22:08] PHP Fatal error:  Cannot redeclare debug_print() (previously declared in /home/grp4istw/public_html/scripts/app_config.php:31) in /home/grp4istw/public_html/scripts/app_config.php on line 35
+[17-Apr-2014 11:31:46] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 110
+[17-Apr-2014 11:31:46] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 117
+[17-Apr-2014 11:31:46] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 120
+[17-Apr-2014 11:33:12] PHP Parse error:  syntax error, unexpected '}' in /home/grp4istw/public_html/scripts/login.php on line 127
+[17-Apr-2014 14:01:43] PHP Parse error:  syntax error, unexpected '.' in /home/grp4istw/public_html/scripts/login.php on line 132
+[17-Apr-2014 14:02:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/cookies_confirmed.php:18) in /home/grp4istw/public_html/scripts/login.php on line 19
+[17-Apr-2014 14:13:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/cookies_confirmed.php:18) in /home/grp4istw/public_html/scripts/login.php on line 19
+[17-Apr-2014 16:01:16] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 80
+[17-Apr-2014 16:01:16] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 87
+[17-Apr-2014 16:01:16] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/login.php on line 90
+[21-Apr-2014 10:39:26] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/login.php on line 31
+[21-Apr-2014 10:39:33] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/login.php on line 31
+[21-Apr-2014 10:39:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/login.php on line 31
+[21-Apr-2014 10:48:34] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/grp4istw/public_html/scripts/login.php on line 162
+[21-Apr-2014 11:01:15] PHP Parse error:  syntax error, unexpected '=' in /home/grp4istw/public_html/scripts/login.php on line 3
+[21-Apr-2014 11:01:35] PHP Parse error:  syntax error, unexpected '=' in /home/grp4istw/public_html/scripts/login.php on line 3
+[21-Apr-2014 11:01:36] PHP Parse error:  syntax error, unexpected '=' in /home/grp4istw/public_html/scripts/login.php on line 3
+[21-Apr-2014 11:07:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/archiving.php:3) in /home/grp4istw/public_html/scripts/archiving.php on line 4
+[21-Apr-2014 12:11:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/archive.php:2) in /home/grp4istw/public_html/scripts/archive.php on line 3
+[21-Apr-2014 12:11:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grp4istw/public_html/scripts/archive.php:2) in /home/grp4istw/public_html/scripts/archive.php on line 3
+[21-Apr-2014 16:02:40] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/grp4istw/public_html/scripts/update.php on line 57
+[21-Apr-2014 16:11:03] PHP Parse error:  syntax error, unexpected $end in /home/grp4istw/public_html/scripts/terminate.php on line 72
+[21-Apr-2014 20:09:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grp4istw/public_html/scripts/cookies_confirmed.php:18) in /home/grp4istw/public_html/scripts/login.php on line 20
+[22-Apr-2014 19:30:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/edit.php on line 48
+[22-Apr-2014 19:47:22] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/terminate.php on line 46
+[22-Apr-2014 19:47:22] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/terminate.php on line 50
+[22-Apr-2014 19:47:22] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/grp4istw/public_html/scripts/terminate.php on line 53
+[23-Apr-2014 09:57:53] PHP Parse error:  syntax error, unexpected '}' in /home/grp4istw/public_html/scripts/login.php on line 9
+[23-Apr-2014 09:58:17] PHP Parse error:  syntax error, unexpected '}' in /home/grp4istw/public_html/scripts/login.php on line 9
+[23-Apr-2014 09:58:57] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/grp4istw/public_html/scripts/login.php on line 6
+[23-Apr-2014 09:59:49] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/grp4istw/public_html/scripts/login.php on line 35
+[23-Apr-2014 10:00:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 36
+[23-Apr-2014 10:04:53] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/grp4istw/public_html/scripts/login.php on line 166
+[23-Apr-2014 10:08:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 36
+[23-Apr-2014 10:08:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 36
+[23-Apr-2014 10:08:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 36
+[23-Apr-2014 10:09:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/grp4istw/public_html/scripts/login.php on line 36
